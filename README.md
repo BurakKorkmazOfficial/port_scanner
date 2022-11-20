@@ -1,4 +1,4 @@
-# port_scanner
+# port_scanner beta.0.1
 It is a port scanning tool. Please read the 'readme' section.
 to use the tool
 
